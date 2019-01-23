@@ -2,7 +2,7 @@
 
 This repository implements an evaluation script for measuring the mean BISON accuracy on the val2014 split of the COCO-caption dataset. If you use BISON to analyze your image-captioning system, please cite:
 
-- Hexiang Hu, Ishan Misra, and Laurens van der Maaten. **Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding.** _arXiv:xxxx.xxxx_, 2018.
+- Hexiang Hu, Ishan Misra, and Laurens van der Maaten. **Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding.** _arXiv:1901.06595, 2019.
 
 ## Requirements
 
